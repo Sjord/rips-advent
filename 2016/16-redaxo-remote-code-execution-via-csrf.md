@@ -7,7 +7,7 @@ management system that is mostly used in Germany. Today we are going to
 present our scan results for Redaxo and explain how completely omitting
 anti-[CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)) measures can have a significant security impact.
 
-![Redaxo CMS](images/redaxo.png "Redaxo CMS"){.img-fluid}
+![Redaxo CMS](images/redaxo.png "Redaxo CMS")
 
 ## RIPS Analysis
 

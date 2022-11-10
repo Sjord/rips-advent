@@ -104,8 +104,6 @@ The following video demonstrates how a repository is updated with
 change, a code analysis with RIPS is triggered by Jenkins that alarms
 about possible vulnerabilities.
 
-::: {style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden"}
-
 ## Summary
 
 Software development must be kept efficient, easy, and manageable.
