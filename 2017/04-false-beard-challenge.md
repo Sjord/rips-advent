@@ -26,4 +26,4 @@ class Login {
 new Login($_POST['username'], $_POST['password']);
 ```
 
-[Show Solution](4-false-beard-solution.md)
+[Show Solution](04-false-beard-solution.md)

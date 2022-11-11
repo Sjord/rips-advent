@@ -27,4 +27,4 @@ class LanguageManager
 (new LanguageManager())->loadLanguage();
 ```
 
-[Show Solution](9-rabbit-solution.md)
+[Show Solution](09-rabbit-solution.md)

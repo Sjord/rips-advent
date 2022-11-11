@@ -32,4 +32,4 @@ $storage = new TokenStorage();
 $storage->performAction($_GET['action'], $_GET['data']);
 ```
 
-[Show Solution](6-frost-pattern-solution.md)
+[Show Solution](06-frost-pattern-solution.md)

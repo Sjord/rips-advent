@@ -42,4 +42,4 @@ $mailer = new Mailer();
 $mailer->send($_POST);
 ```
 
-[Show Solution](5-postcard-solution.md)
+[Show Solution](05-postcard-solution.md)

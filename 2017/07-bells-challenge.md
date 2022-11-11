@@ -28,4 +28,4 @@ $currentUser = getUser($id);
 echo '<h1>'.htmlspecialchars($currentUser).'</h1>';
 ```
 
-[Show Solution](7-bells-solution.md)
+[Show Solution](07-bells-solution.md)

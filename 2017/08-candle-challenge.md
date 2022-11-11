@@ -18,4 +18,4 @@ foreach ($_GET as $regex => $value) {
 }
 ```
 
-[Show Solution](8-candle-solution.md)
+[Show Solution](08-candle-solution.md)

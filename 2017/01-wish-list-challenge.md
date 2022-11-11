@@ -26,4 +26,4 @@ class Challenge {
 $challenge = new Challenge($_FILES['solution']);
 ```
 
-[Show Solution](1-wish-list-solution.md)
+[Show Solution](01-wish-list-solution.md)
