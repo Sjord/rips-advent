@@ -12,3 +12,7 @@ line 16 a path traversal attack (zip slip) can be triggered.
 The sanitization in line 16 removes the `../` character sequence from
 the name which is insufficient and can be bypassed with the following
 payload on a Linux system running a Tomcat server:
+
+```
+..././..././..././..././..././var/tomcat/webapps/ROOT/index.jsp
+```
